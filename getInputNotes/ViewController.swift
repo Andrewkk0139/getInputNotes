@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var textfieldOutlet: UITextField!
     
     @IBOutlet weak var ageTextfieldOutlet: UITextField!
+    
+    var gitTest = 7
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
